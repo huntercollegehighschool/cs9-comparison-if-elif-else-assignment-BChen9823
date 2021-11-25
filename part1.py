@@ -14,9 +14,9 @@ Enter another number: 5
 
 The smallest number is 2
 '''
-num1 = int(input("Enter a number: "))
+number1 = int(input("Enter a number: "))
 
-smallest = num1
+smallest = number1
 
 num2 = int(input("Enter another number: "))
 
