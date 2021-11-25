@@ -36,7 +36,7 @@ else:
   print("not divisible by 3")
 
 '''
-Another way of writing lines 33-36
+Alternate way of writing lines 33-36
 if number/3 == 0 :
   print("divisible by 3")
 else:
