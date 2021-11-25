@@ -21,7 +21,6 @@ Enter a month:  February
 Enter a month:  Saturday
 not a month
 '''
-
 #start writing your code below
 
 month = input("Enter a month: ")
